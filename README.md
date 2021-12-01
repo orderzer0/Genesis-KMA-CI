@@ -4,7 +4,9 @@ Hometask dedicated to "CI/CD" lectures
 ## GitHub Actions overview:
 
 [About](https://docs.github.com/en/actions/learn-github-actions/understanding-github-actions)
+
 [Syntax](https://docs.github.com/en/actions/learn-github-actions/workflow-syntax-for-github-actions)
+
 [Example workflow for NodeJS/Python](https://docs.github.com/en/actions/automating-builds-and-tests/building-and-testing-nodejs-or-python)
 
 ## Hometask
