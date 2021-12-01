@@ -17,7 +17,9 @@ Create a CI using simple GitHub Flow around your previous project (API for manag
 3. Apply actions automaticaly on merge in master (main) branch from your feature branch
 4. Use [GitHub flow](http://cdn-ak.f.st-hatena.com/images/fotolife/s/shoma2da/20151104/20151104223339.png)
 
-## Extra task: create CD (Continuos Delivery) job based on GitHub Actions, whitch will deploy your app to your AWS infrastructure (+10 points to your score)
+## Extra task 
+
+Create CD (Continuos Delivery) job based on GitHub Actions, whitch will deploy your app to your AWS infrastructure (+10 points to your score)
 
 ### DEADLINE: 10.12.2021 at 23:59
 
