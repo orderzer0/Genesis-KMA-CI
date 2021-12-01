@@ -19,6 +19,6 @@ Create a CI using simple GitHub Flow around your previous project (API for manag
 
 ## Extra task: create CD (Continuos Delivery) job based on GitHub Actions, whitch will deploy your app to your AWS infrastructure (+10 points to your score)
 
-### DEADLINE: 23.12.2021 at 23:59
+### DEADLINE: 10.12.2021 at 23:59
 
 Wish you good luck! Do not hesitate to ask me any questions.
